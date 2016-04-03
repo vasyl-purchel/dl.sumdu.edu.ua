@@ -1,5 +1,5 @@
 - title : Начало работы в 3ds Max
-- description : Практическое задание №2
+- description : Начало работы в 3ds Max
 - author : Василий Пурчел
 - theme : night
 - transition : default
@@ -11,3 +11,6 @@
  - [Report 2](3DGeomReport2.html)
  - [Report 3](3DGeomReport3.html)
  - [Report 4](3DGeomReport4.html)
+ - [Report 5](3DGeomReport5.html)
+ - [Report 6](3DGeomReport6.html)
+ - [Report 7](3DGeomReport7.html)

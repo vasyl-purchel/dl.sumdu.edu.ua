@@ -14,6 +14,8 @@
 
 Вариант : 6
 
+Сцена : [4.Purchel V A.max](files/4.Purchel V A.max)
+
 ---
 
 ### Задание:
@@ -28,7 +30,7 @@
 
 ***
 
-# Моделирование
+### Моделирование
 
 ---
 
@@ -36,22 +38,41 @@
 
 ![Table](images/3dGeom-t4s1.png "Table")
 
-' Mодель стола с помощью сплайна и модификатора Lathe.
+---
+
+Чашка:
+ - линия со spline outline 0.2 для объема (контур чашки) + Lathe
+ - элипс и линия формы ручки + Loft
+
+![Cup](images/3dGeom-t4s2.png "Cup")
+
+---
+
+Салфетка (скатерть): лучше результат был бы использовав ткань вместо создания из примитивов с модификаторами
+С примитивами Noise дает некоторую реалистичность
+
+![Table napkin](images/3dGeom-t4s3.png "Table napkin")
+
+---
+
+Ваза и тарелка с помощью линий + Lathe, и Lattice для украшения вазы
+
+![Vase and plate](images/3dGeom-t4s4.png "Vase and plate")
 
 ***
 
-# Натюрморт
+### Натюрморт
 
-![Modelling result](images/3dGeom-t4s1.png "Modelling result")
-
-***
-
-# Свет
-
-![Lights](images/3dGeom-t4s1.png "Lights")
+![Modelling result](images/3dGeom-t4s4.png "Modelling result")
 
 ***
 
-# Визуализация
+### Свет
 
-![Render](images/3dGeom-t4s1.png "Render")
+![Lights](images/3dGeom-t4s5.png "Lights")
+
+***
+
+### Визуализация
+
+![Rendered still life](images/3dGeom-t4s6.png "Rendered still life")
